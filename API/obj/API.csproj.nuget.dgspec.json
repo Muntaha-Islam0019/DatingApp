@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\U1119912\\Documents\\Angular Projects\\DatingApp\\api\\API.csproj": {}
+    "c:\\Users\\U1119912\\Documents\\Angular Projects\\DatingApp\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\U1119912\\Documents\\Angular Projects\\DatingApp\\api\\API.csproj": {
+    "c:\\Users\\U1119912\\Documents\\Angular Projects\\DatingApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\U1119912\\Documents\\Angular Projects\\DatingApp\\api\\API.csproj",
+        "projectUniqueName": "c:\\Users\\U1119912\\Documents\\Angular Projects\\DatingApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\U1119912\\Documents\\Angular Projects\\DatingApp\\api\\API.csproj",
+        "projectPath": "c:\\Users\\U1119912\\Documents\\Angular Projects\\DatingApp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\U1119912\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\U1119912\\Documents\\Angular Projects\\DatingApp\\api\\obj\\",
+        "outputPath": "c:\\Users\\U1119912\\Documents\\Angular Projects\\DatingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\U1119912\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -21,7 +21,6 @@
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -40,6 +39,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
