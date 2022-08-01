@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\U1119912\\Documents\\Angular Projects\\DatingApp\\API\\API.csproj": {}
+    "C:\\Users\\U1119912\\Documents\\Angular Projects\\DatingApp\\api\\API.csproj": {}
   },
   "projects": {
-    "c:\\Users\\U1119912\\Documents\\Angular Projects\\DatingApp\\API\\API.csproj": {
+    "C:\\Users\\U1119912\\Documents\\Angular Projects\\DatingApp\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\U1119912\\Documents\\Angular Projects\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\U1119912\\Documents\\Angular Projects\\DatingApp\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "c:\\Users\\U1119912\\Documents\\Angular Projects\\DatingApp\\API\\API.csproj",
+        "projectPath": "C:\\Users\\U1119912\\Documents\\Angular Projects\\DatingApp\\api\\API.csproj",
         "packagesPath": "C:\\Users\\U1119912\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\U1119912\\Documents\\Angular Projects\\DatingApp\\API\\obj\\",
+        "outputPath": "C:\\Users\\U1119912\\Documents\\Angular Projects\\DatingApp\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\U1119912\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -21,6 +21,7 @@
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,6 +40,12 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[6.0.7, )"

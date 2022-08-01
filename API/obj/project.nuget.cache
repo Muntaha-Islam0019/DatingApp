@@ -1,13 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "6hn0kZvf2Rd2i2L8nJx2/KYgY/6/9cgC20i21+9FkcwgnyjARKfEqO9TaSzXFIFAMj51UX7YASZ8wsDOOQcgwA==",
+  "dgSpecHash": "22sBwqPxYCqWDZu5RQKR7cvwNtW60Phh4X6jKFCbj6kIDDqez9VFAqkpCHzrMwpk7eHhj1nJvCY4azL5zPrROA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\U1119912\\Documents\\Angular Projects\\DatingApp\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\U1119912\\Documents\\Angular Projects\\DatingApp\\api\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\U1119912\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\U1119912\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.7\\microsoft.data.sqlite.core.6.0.7.nupkg.sha512",
     "C:\\Users\\U1119912\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.7\\microsoft.entityframeworkcore.6.0.7.nupkg.sha512",
     "C:\\Users\\U1119912\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.7\\microsoft.entityframeworkcore.abstractions.6.0.7.nupkg.sha512",
     "C:\\Users\\U1119912\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.7\\microsoft.entityframeworkcore.analyzers.6.0.7.nupkg.sha512",
+    "C:\\Users\\U1119912\\.nuget\\packages\\microsoft.entityframeworkcore.design\\6.0.7\\microsoft.entityframeworkcore.design.6.0.7.nupkg.sha512",
     "C:\\Users\\U1119912\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\6.0.7\\microsoft.entityframeworkcore.relational.6.0.7.nupkg.sha512",
     "C:\\Users\\U1119912\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\6.0.7\\microsoft.entityframeworkcore.sqlite.6.0.7.nupkg.sha512",
     "C:\\Users\\U1119912\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\6.0.7\\microsoft.entityframeworkcore.sqlite.core.6.0.7.nupkg.sha512",
