@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B1W2t2tGL5FQfkTWCmQnAwUoPr//oYGkcDuOiowDQvYl1THVNh5jZzAajPRh1HAHHp1CNSqs4N0ko4JO/Jb7tA==",
+  "dgSpecHash": "sMBUxpbvL1uvROfxEzBlmwKXnynfDyhmNiXcSiG+9OZHlxSPlh8Ka70zhIuArLsZ4fzJqHRwzTver2oYHTVOkw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\U1119912\\Documents\\Angular Projects\\DatingApp\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\U1119912\\Documents\\Angular Projects\\DatingApp\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\U1119912\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\U1119912\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
