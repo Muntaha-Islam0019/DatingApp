@@ -10,7 +10,7 @@ export class AppComponent implements OnInit {
   title = 'Dating App';
   users: any;
 
-  constructor(private http: HttpClient) {}
+  constructor(private http: HttpClient) { }
 
   ngOnInit() {
     this.getUsers();
